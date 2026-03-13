@@ -44,7 +44,6 @@ Web application that displays and filters car data using REST APIs.
   Application for tracking race data and performance statistics.
 -  📝 **To-Do List Web App**
 Task management web application built with HTML, CSS and JavaScript.
-
 🔗 Repo: https://github.com/bellabell1/my-todo-app
 
 ---
