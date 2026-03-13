@@ -34,11 +34,18 @@ Currently focused on:
 
 ## 📌 Projects
 
-- 🔎 **Path Finder Application** 
-- 💬 **Forum System**  
+- 🔎 **Path Finder Application**
+  Pathfinding visualization tool demonstrating algorithms and grid navigation. 
+- 💬 **Forum System**
+  Full-stack discussion platform with posts, comments, and user interaction.
 - 🚗 **Car Viewer Web App** 
-- 📝 **Note Management Tool**   
-- 🏎 **RaceTracker**  
+Web application that displays and filters car data using REST APIs.
+- 🏎 **RaceTracker**
+  Application for tracking race data and performance statistics.
+-  📝 **To-Do List Web App**
+Task management web application built with HTML, CSS and JavaScript.
+
+🔗 Repo: https://github.com/bellabell1/my-todo-app
 
 ---
 
