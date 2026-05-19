@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Audiowide&size=40&pause=2000&background=00000000&center=true&vCenter=true&width=650&lines=%20Hi%2C+I%27m+Kindo+Isabella+Njunkom)](https://git.io/typing-svg)
 
-🎓 Software Engineering Student @ Kood/Sisu  
+🎓 Student @ Kood/Sisu  
 💻 Full-Stack Developer in Training  
 🚀 Building web applications since 2022  
 
